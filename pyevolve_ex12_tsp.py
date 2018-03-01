@@ -1,3 +1,4 @@
+# Author: Akriti Sethi
 # This class calculates the tour length and time taken to reach an optimal stage by applying genetic algorithm. We use the
 # pyevolve library to do so.
 # If this function is called from the wrapper nothing needs to be done. But if this file is to be executed independantly, 
