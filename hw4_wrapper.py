@@ -1,3 +1,4 @@
+# Author: Akriti Sethi
 # This class is a wrapper class which can be used to run the code for genetic algorithm and greedy algorithm. In this file, the
 # input needs to be the folder name where the user has stored all the files for which they need to output the tour length 
 # and time taken. Both the algorithms would run in sequence for one or multiple files depeneding on the number of files in the
