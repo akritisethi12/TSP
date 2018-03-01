@@ -1,3 +1,4 @@
+# Author: Akriti Sethi
 # This implements the A* algorithm.
 try:    
     import re
