@@ -1,3 +1,4 @@
+# Author: Akriti Sethi
 # The following class predicts the class for a given set of inputs by constructing a two category decision tree
 try:
     
