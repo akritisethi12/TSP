@@ -1,3 +1,4 @@
+# Author: Akriti Sethi
 # This class implements the TSP problem by the greedy approach. It basically takes the minimum distance from the current node to the
 # next node. This keeps on going untill all the nodes are not visited, after which we add the start element at the end again.
 # When this class is directly called from the wrapper, there are no changes to be made here and it would output the tour length and
